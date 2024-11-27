@@ -1,8 +1,8 @@
 👋 **Welcome! I’m Adwoa Acheampong**
 ✨ **Data Enthusiast | Operations Maven | Aspiring AI Automator**
-   I thrive at the crossroads of data, operations, and innovation, turning numbers into stories and challenges into solutions. 
+   *I thrive at the crossroads of data, operations, and innovation, turning numbers into stories and challenges into solutions. 
    With a strong background in operations management, I’ve mastered the art of streamlining processes, improving efficiency, 
-   and delivering measurable results.
+   and delivering measurable results.*
 
 👀**What I’m Into:**
 - *Leveraging data analytics for business growth and intelligent decision-making.*
@@ -27,7 +27,7 @@
 
 ⚡**Fun fact:** *I started exploring data analysis as a personal interest, and it quickly transformed into my passion and career!*
   
-  **Let’s Build the Future
+  **Let’s Build the Future:
   When I’m not crunching numbers or streamlining workflows, you’ll find me reading up on tech advancements, brainstorming the next big idea, 
   or experimenting with ways to make work (and life) more efficient.**
 
